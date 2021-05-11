@@ -1,0 +1,48 @@
+{
+  "logs": [
+    {
+      "message": "Removed virus from x-02",
+      "tech": "Ashutosh Pareek",
+      "attention": false,
+      "date": "2020-12-21T15:39:51.033Z",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "tech": "Karan Gupta",
+      "message": "test arasda",
+      "attention": false,
+      "date": "2020-12-21T16:05:40.674Z"
+    },
+    {
+      "id": 8,
+      "tech": "Ashutosh Pareek",
+      "message": "Trial period reset at x2",
+      "attention": true,
+      "date": "2020-12-22T17:03:27.216Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Aryan",
+      "lastName": "Gupta",
+      "id": 1
+    },
+    {
+      "firstName": "Ashutosh",
+      "lastName": "Pareek",
+      "id": 2
+    },
+    {
+      "firstName": "Karan",
+      "lastName": "Gupta",
+      "id": 3
+    }
+  ],
+  "user":[
+    {
+      "email":"user@test.com",
+      "password":"test@123"
+    }
+  ]
+}
